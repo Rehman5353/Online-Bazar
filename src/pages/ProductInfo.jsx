@@ -305,7 +305,7 @@ export default function Login() {
 
 
     <>
-      <section className="vh-100 bg-image" >
+      <section className="vh-100 bg-add-product" >
           <div className="mask d-flex align-items-center h-100 gradient-custom-3">
             <div className="container h-100">
               <div className="row d-flex justify-content-center align-items-center h-100">
